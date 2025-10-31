@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Как со мной связаться
-📧 Email: your_email@example.com  
+📧 Tg: @markroly  
 🌐 GitHub: [mlyashenko](https://github.com/mlyashenko)
 
 ---
